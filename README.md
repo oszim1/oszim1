@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Pucci (@oszim1)
-- 👀 I’m interested in games and systems development
-- 🌱 I’m currently learning the basics on programming so I can start my career as a developer. Still learning to define and choose the area I want to follow and in what I want to work.
-- 💞️ I’m looking to collaborate on ... for now, only learn! The most I can
+- 👀 I’m interested in web and software development
+- 🌱 I’m currently learning HTML5 and CSS3 so I can create beautiful and functional web designs. I'm here to share my knowledge and in what I'm focused right now, and also to get feedback from more experienced people so I can always turn out a better developer. 
+- 💞️ I’m looking to collaborate on anything I can, but I'm focused on getting colaboration from others, so I can acquire more knowledge. 
 - 📫 How to reach me: gabriel.pucci7@outlook.com
 
 <!---
